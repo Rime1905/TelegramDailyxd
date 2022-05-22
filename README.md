@@ -18,7 +18,15 @@ We used **_sqlite_** database, yes it maybe not the most functional one, but for
 Just install whole projects files, after, download all the libs from `requirements.txt`, then run `Aiobot.py` and bot is booted.
 
 # How it works
-Something here
+
+So, the interface is simple:
+
+![123](https://user-images.githubusercontent.com/96371464/169705556-21c69de4-4f88-4ee4-bdea-7c78d77d149f.PNG)
+
+The image with all the news looks like this:
+
+![photo_2022-05-22_20-47-42](https://user-images.githubusercontent.com/96371464/169705566-f4c8cac2-ae13-46c1-b08b-e195ca57f844.jpg)
+
 
 # Our team
 - **Main coder** - _Emir Ibragimov_/[GitHub](https://github.com/Rime1905)
